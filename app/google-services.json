@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "211732037734",
+    "firebase_url": "https://jogodogenoma.firebaseio.com",
+    "project_id": "jogodogenoma",
+    "storage_bucket": "jogodogenoma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211732037734:android:58e8525bf228bfb8",
+        "android_client_info": {
+          "package_name": "uaecb.ufg.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211732037734-0rjbrub22fc4lvi1l9jnsot91mbhgh8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uaecb.ufg.br",
+            "certificate_hash": "687e590f864319ae68c07732b995f3a52ad8515b"
+          }
+        },
+        {
+          "client_id": "211732037734-lh5l0pprlsf1apibrln0g8akj43ceumd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHdgRuIctZ_iT-4tZtAatX4OToKDXma8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211732037734-lh5l0pprlsf1apibrln0g8akj43ceumd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211732037734:android:9f3915ff0d3f2ce6",
+        "android_client_info": {
+          "package_name": "uaecb.ufg.br.jogodogenoma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211732037734-ehp228ptm2qudgrv42rr662mdpb8rcva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uaecb.ufg.br.jogodogenoma",
+            "certificate_hash": "687e590f864319ae68c07732b995f3a52ad8515b"
+          }
+        },
+        {
+          "client_id": "211732037734-lh5l0pprlsf1apibrln0g8akj43ceumd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHdgRuIctZ_iT-4tZtAatX4OToKDXma8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211732037734-lh5l0pprlsf1apibrln0g8akj43ceumd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

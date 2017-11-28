@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="uaecb.ufg.br.jogodogenoma.activity.view.LoginActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/color_gray_black">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_email"
+            android:id="@+id/text_email"
+            android:textSize="25sp"
+            android:layout_marginBottom="10sp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45sp"
+            android:id="@+id/edit_email"
+            android:layout_marginBottom="10sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_senha"
+            android:id="@+id/text_senha"
+            android:textSize="25sp"
+            android:layout_marginBottom="10sp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45sp"
+            android:id="@+id/edit_senha"
+            android:layout_marginBottom="10sp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="45sp"
+            android:text="Enviar"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/colorWhite"/>
+    </LinearLayout>
+</LinearLayout>

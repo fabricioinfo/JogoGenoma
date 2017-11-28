@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo do Genoma</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_senha">Senha</string>
+</resources>
